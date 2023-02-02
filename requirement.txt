@@ -1,0 +1,4 @@
+googletrans        3.0.0
+PyAudio            0.2.13
+SpeechRecognition  3.9.0
+translate          3.6.1
