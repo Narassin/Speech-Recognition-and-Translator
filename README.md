@@ -1,2 +1,5 @@
-# Speech-Recognition-and-Translator
-Speech-Recognition-and Translator
+# Speech Recognition and Translator
+## Introduction
+## Requirement
+
+## Reference
